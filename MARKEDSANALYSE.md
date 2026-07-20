@@ -38,7 +38,7 @@ og en tydelig «hvorfor oss»-historie — ikke med lavere pris.
 | **Instagram** | ✅ @molinett.barbers.no | Nytt/lite følgertall vs. 2 000–2 500 hos konkurrentene |
 | **Facebook** | ✅ molinett.barbers.no | Aktiv? Bør speile Instagram |
 | **Google Business** | ⚠️ Uklart/mangelfullt | **Kritisk hull** — ingen synlig lokal Google-oppføring m/ anmeldelser |
-| **TikTok** | ❔ Sannsynligvis ja (ikke verifisert) | Fant den ikke via websøk (USA-basert, TikTok indekseres dårlig) — men eier oppgir at den finnes. Bør verifiseres og aktiveres for fullt |
+| **TikTok** | ✅ @molinett.barbers.no | Finnes — likt håndtak som Instagram/Facebook (bra: konsistent merkevare). Bør aktiveres for fullt med jevn video |
 | **Lokale kataloger** (1881, Gule Sider, fixit) | ⚠️ Mangelfullt | Konkurrentene er oppført flere steder |
 | **Lokale partnerskap / PR** | ❌ Ingen | Konkurrent har Glimt-partnerskap; Molinett har ingen lokal forankring ennå |
 | **Klippekort / lojalitet** | ❌ Nei | Konkurrent bruker dette aktivt for gjenkjøp |
@@ -180,7 +180,60 @@ resten følger.
 
 ---
 
-## 8. Oppsummert
+## 8. Rabatt- og kampanjestrategi
+
+Kampanjer *kan* være et godt verktøy for å få flere kunder — men for en **premium**
+merkevare må de brukes med omhu. Målet er å drive **prøving, gjenkjøp og synlighet**
+uten å svekke inntrykket av kvalitet.
+
+### Fallgruvene med brede rabatter
+- **Svekker premium-posisjonen.** «650 kr-klippen» som stadig selges til 400 kr blir
+  fort oppfattet som en 400 kr-klipp. Prisen er et kvalitetssignal — ikke undergrav det.
+- **Tiltrekker feil kunder.** Brede «billig klipp»-kampanjer trekker pris-jegere med
+  lav lojalitet, som forsvinner til neste tilbud. De blir sjelden faste premium-kunder.
+- **Lærer folk å vente på salg.** Faste rabatter kan flytte kjøp du ellers ville fått
+  til full pris.
+- **Kannibaliserer én stol.** Med begrenset kapasitet fyller du dyrebar stoltid med
+  lavmargin-timer i stedet for fullpris-kunder.
+
+### Smarte kampanjer som passer en premium solo-barber
+Regelen: **verdi-påslag fremfor priskutt**, **tidsbegrenset**, **målrettet**, og alltid
+**koblet til et mål** (ny kunde, anmeldelse, gjenkjøp eller synlighet).
+
+1. **Lanserings-/førstegangstilbud (kun nye kunder).** Et engangs velkomsttilbud på
+   første besøk — gjerne betinget av at kunden legger igjen en Google-anmeldelse.
+   Driver prøving *og* bygger anmeldelsesbasen. Ikke en stående rabatt.
+2. **Fyll stille tider.** Et lite insentiv kun på rolige timer (formiddag/tidlig uke),
+   ikke hele uka. Da fyller du ledig kapasitet uten å kutte i det som uansett er fullt.
+3. **Verdi-påslag i stedet for priskutt.** Gratis skjeggtrim, varmt håndkle eller
+   produktprøve *med* en klipp — eller «oppgrader til Full Ritual til klippepris» i et
+   kort vindu. Beholder prisintegriteten og løfter opplevelsen.
+4. **Verv-en-venn.** Eksisterende kunde + venn får begge en liten fordel. Vokser via
+   vareprat — kraftig for premium, og trekker folk som ligner dine beste kunder.
+5. **Lojalitet (klippekort).** Belønn *frekvens*, ikke førstegangskjøp — akkurat som
+   The London Barber. Gjør gjenkjøp til vane.
+6. **Sesong-/anledningskroker.** Farsdag, konfirmasjon, russ, jul, «grooming før 17. mai».
+   Konkret, tidsbegrenset og delbart. *(Lokalt eksempel: konkurrenten kjørte en
+   farsdagskampanje i samarbeid med Bodø Padel.)*
+7. **Kanal-sporet kampanje.** En kode eller «nevn denne videoen» knyttet til TikTok/
+   Instagram. Da måler du hvilken kanal som faktisk gir kunder — *og* gir folk en grunn
+   til å engasjere seg i innholdet.
+
+### Kjøreregler
+- **Tidsbegrens alt** (kampanjevindu med sluttdato) — unngå permanente rabatter.
+- **Ramme inn som «tilbud/velkomst», ikke «billig».** Ordvalg beskytter merkevaren.
+- **Fest et mål til hver kampanje** (X nye kunder, Y anmeldelser, fylle Z ledige timer).
+- **Mål effekten** — book, anmeldelser og gjenkjøp — og behold bare det som virker.
+- **Skjerm signaturtjenesten.** Ikke la Full Ritual bli «alltid på tilbud».
+
+**Kort sagt:** Ja, prøv kampanjer — men bruk dem kirurgisk for å skape *prøving og
+gjenkjøp*, ikke som generell prisnedgang. Best avkastning nå: et **førstegangstilbud
+koblet til Google-anmeldelse** og et **stille-tid-tilbud** — begge løser reelle hull
+(synlighet og ledig kapasitet) uten å svekke premium-posisjonen.
+
+---
+
+## 9. Oppsummert
 
 Håndverket og merkevaren er allerede konkurransedyktige — flaskehalsen er **lokal synlighet
 og lokalt sosialt bevis**, der etablerte konkurrenter (særlig The London Barber) har flere
