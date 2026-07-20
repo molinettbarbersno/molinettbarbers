@@ -1,198 +1,157 @@
 # Markedsanalyse — Molinett The Barber's, Bodø
 
-*Utarbeidet 20. juli 2026. Basert på nettsiden (molinettbarbers.no), Fresha-profil, sosiale medier og markedsdata for Bodø.*
+*Oppdatert 20. juli 2026. Basert på Molinetts nettside (molinettbarbers.no), Fresha-profil,
+sosiale medier, samt research på konkurrenter og markedet i Bodø. Konkurrentpriser der de
+ikke er offentlig publisert er anslag/retning, tydelig markert.*
 
 ---
 
 ## 1. Kort sammendrag
 
-Molinett The Barber's er en **ny, premium herrefrisør/barbershop** i Bodø sentrum,
-drevet av Felix Molinett — en erfaren barber med internasjonal bakgrunn. Håndverket
-og merkevaren er sterke: 5,0 i snitt på Fresha (23 anmeldelser), gjennomarbeidet
-nettside og en tydelig premium-profil.
+Molinett The Barber's har **sterkt håndverk og en tydelig premium-merkevare**, men er
+**lite synlig lokalt** sammenlignet med etablerte konkurrenter. De største aktørene i
+Bodø (særlig **The London Barber**) har bygget noe Molinett mangler i dag:
 
-Utfordringen er **ikke kvaliteten — det er synligheten lokalt.** Bedriften er ny,
-eieren nylig tilflyttet, og den viktigste markedsføringen (nettsted, tekst,
-anmeldelser) er rettet mot et internasjonalt/engelskspråklig publikum, ikke mot
-folk i Bodø som googler «frisør Bodø» eller «herreklipp Bodø».
+- **Norsk nettside med lokal SEO** (egne tjeneste-/prissider) → de blir funnet på Google.
+- **Hundrevis av lokale anmeldelser** over flere år → tillit i «frisør Bodø»-søk.
+- **Lokale partnerskap** (The London Barber er offisiell **Bodø/Glimt-partner** + håndball/padel) → enorm lokal eksponering.
+- **Lojalitetsprogram (klippekort)** og produktsalg → gjenkjøp og merinntekt.
+- **2 000–2 500+ følgere** på Instagram bygget over tid.
 
-**De tre største grepene for flere kunder:**
+Molinett konkurrerer altså **oppover på pris** (dyrest i byen) samtidig som bedriften er
+**minst kjent lokalt**. Det er en spenning som må løses med synlighet, lokalt sosialt bevis
+og en tydelig «hvorfor oss»-historie — ikke med lavere pris.
 
-1. **Bli synlig på norsk der folk søker lokalt** — Google Business-profil + norsk
-   innhold/SEO. Dette er sannsynligvis den enkeltfaktoren som gir mest.
-2. **Bygg lokalt sosialt bevis** — få norske Google-anmeldelser og lokale
-   før/etter-bilder, ikke bare vitnesbyrd fra tidligere kunder i utlandet.
-3. **Jevn, lokal tilstedeværelse på Instagram/Facebook** med gjenkjennelig,
-   Bodø-forankret innhold.
-
----
-
-## 2. Bedriften i korte trekk
-
-| | |
-|---|---|
-| **Navn** | Molinett The Barber's |
-| **Eier/barber** | Felix Molinett (solo — én stol) |
-| **Adresse** | Sjøgata 20, 8006 Bodø (sentralt) |
-| **Telefon** | +47 98 47 54 88 |
-| **Booking** | Fresha (online) + drop-in / walk-ins |
-| **Nettside** | molinettbarbers.no |
-| **Instagram** | @molinett.barbers.no |
-| **Facebook** | facebook.com/molinett.barbers.no |
-| **Vurdering** | 5,0 på Fresha (23 anmeldelser) |
-| **Erfaring** | 25+ år; jobbet i Venezuela, Spania, Nederland, Kuwait, Malta, Sveits |
-| **Posisjonering** | Premium, rolig, «mer enn en klipp» — opplevelse og håndverk |
-
-**Tjenester og priser (fra Fresha, 13 tjenester):**
-- Classic Men's Cut — ~650 kr
-- Scissor Cut
-- Kids Cut (6–11 år)
-- Beard Trim — Short / Medium / Long (fra ~300 kr)
-- Side Clean-Up
-- Head Shave
-- Classic Face Shave — ~720 kr
-- Head + Face Shave / Full Ritual — opp mot ~1 050 kr
-
-Prisene ligger i **øvre sjikt** for Bodø (til sammenligning: Klipp Frisør fra 390 kr
-for herreklipp). Det er greit — men premium-pris må rettferdiggjøres tydelig, og
-det treffer et smalere kundesegment.
-
-**Lokal krok som er verdt gull:** biljardbordet i loungen tilhørte tidligere
-landslagsspiller Øyvind Leonhardsen. Dette er en konkret, delbar historie som
-knytter salongen til norsk (og nordnorsk) idrettsstolthet — bruk den mer aktivt.
+**Tre grep som gir mest:**
+1. **Bli funnet på norsk** — Google Business-profil + norsk innhold/SEO (der konkurrentene henter kundene).
+2. **Bygg lokalt sosialt bevis** — samle norske Google-anmeldelser systematisk.
+3. **Skaff én sterk lokal forankring** — et lokalt partnerskap/samarbeid (idrett, bedrift, arrangement) som gir gjentakende, Bodø-relevant eksponering.
 
 ---
 
-## 3. Markedet i Bodø
+## 2. Molinett — plattform-revisjon (hvor de er / ikke er)
 
-- **Befolkning:** ~53 700 (Nordlands største by). Svakt fallende siste år, men
-  regionalt sentrum med pendlere, studenter (Nord universitet), forsvar og turisme.
-- **Etterspørsel:** stabil, tilbakevendende (menn klipper seg hver 3.–6. uke).
-  Marked bygges på **frekvens og lojalitet**, ikke engangsbesøk.
-- **Konkurranse (utvalg):**
-  - **Bodø Barbershop** (Kongens gate 17A, siden 2019) — etablert, godt innarbeidet, sterke anmeldelser.
-  - **The London Barber** — spesialisert herre/barber-opplevelse, tydelig konsept.
-  - **Klipp Frisør** — drop-in, lav pris (fra 390 kr), volumdrevet.
-  - **Frisør Gullsaksen** — 4,9 stjerner (107 anmeldelser), bredt.
-  - Podium, Stil, Kry, Lime, Paleet m.fl.
+| Kanal | Status | Kommentar |
+|---|---|---|
+| **Nettside** | ✅ molinettbarbers.no | Pen, premium — men **kun engelsk** → svak lokal SEO |
+| **Fresha (booking)** | ✅ 5,0 (23 anmeldelser) | Sterk vurdering, men Fresha er booking, ikke oppdagelse |
+| **Instagram** | ✅ @molinett.barbers.no | Nytt/lite følgertall vs. 2 000–2 500 hos konkurrentene |
+| **Facebook** | ✅ molinett.barbers.no | Aktiv? Bør speile Instagram |
+| **Google Business** | ⚠️ Uklart/mangelfullt | **Kritisk hull** — ingen synlig lokal Google-oppføring m/ anmeldelser |
+| **TikTok** | ❌ Ikke funnet | Ubenyttet kanal — sterkest organisk rekkevidde for barber-innhold nå |
+| **Lokale kataloger** (1881, Gule Sider, fixit) | ⚠️ Mangelfullt | Konkurrentene er oppført flere steder |
+| **Lokale partnerskap / PR** | ❌ Ingen | Konkurrent har Glimt-partnerskap; Molinett har ingen lokal forankring ennå |
+| **Klippekort / lojalitet** | ❌ Nei | Konkurrent bruker dette aktivt for gjenkjøp |
+| **Produktsalg** | ❔ Uklart | Konkurrentene selger hår-/skjeggprodukter (merinntekt) |
 
-**Konkurransebildet:** flere etablerte aktører har forsprang på lokal
-kjennskap og antall Google-anmeldelser. Molinett konkurrerer ikke på pris eller
-antall år i byen — men kan vinne på **håndverk, opplevelse og en distinkt,
-internasjonal premium-profil**. Det krever at nettopp den historien når frem
-lokalt.
-
----
-
-## 4. Nettsiden — hva som er bra og hva som svekker salg
-
-**Sterke sider**
-- Profesjonelt design, tydelig premium-uttrykk, god merkevarefølelse.
-- Alt det viktigste finnes: tjenester, priser, åpningstider, kart, telefon, online booking (Fresha), walk-in-info.
-- God historiefortelling om barberen og filosofien.
-- Teknisk ryddig (rask, mobiltilpasset, delings-metadata på plass).
-
-**Det som svekker kundetilstrømning**
-1. **Siden er på engelsk.** Lokale kunder søker og leser på norsk. Engelsk-only
-   svekker både tillit lokalt *og* søkbarhet på norske søkeord. Dette er den
-   viktigste svakheten.
-2. **Anmeldelsene er fra tidligere kunder i utlandet** (bl.a. Sveits). Fint for
-   troverdighet på håndverk, men lokale kjøpere overbevises av lokale stemmer.
-3. **Svak lokal SEO.** Ingen tydelig norsk tekst med søkeord som «frisør Bodø»,
-   «herreklipp Bodø», «barber Bodø sentrum», «skjeggtrim Bodø».
-4. **Ingen synlig Google Business-kobling.** Google-anmeldelser og kartoppføring
-   er det som avgjør «frisør nær meg»-søk — der ligger de fleste nye kundene.
+**Kortversjon:** Molinett har grunnmuren (nettside + booking + gode anmeldelser på Fresha),
+men mangler nettopp de kanalene som skaper *lokal oppdagelse*: Google Business, norsk SEO,
+TikTok og lokal forankring.
 
 ---
 
-## 5. Synlighet og søk (størst potensial)
+## 3. Konkurrentanalyse
 
-Dette er hovedmotoren for «flere kunder» for en lokal tjenestebedrift.
+### Oversiktsmatrise
 
-- **Google Business Profile (gratis, høyest prioritet):** Opprett/gjør ferdig
-  profilen. Riktig kategori (Barbershop/Herrefrisør), åpningstider, telefon,
-  bookinglenke, mange gode bilder, jevnlige innlegg. Dette får salongen inn i
-  «kart-pakken» øverst i Google når folk søker frisør i Bodø.
-- **Samle Google-anmeldelser aktivt:** be hver fornøyd kunde om en anmeldelse
-  (QR-kode ved stolen/i kassa, lenke i SMS-kvittering fra Fresha). Mål: passere
-  de etablerte konkurrentene i antall *lokale* anmeldelser i løpet av 6–9 mnd.
-- **Norsk innhold på nettsiden:** minst en norsk versjon/norsk tekst med lokale
-  søkeord, bydelsnavn (Sjøgata/sentrum), og tjeneste-sider.
-- **Lokale kataloger:** 1881, Gule Sider, fixit.no, frisørguider — sørg for
-  korrekt og lik informasjon (navn, adresse, telefon) overalt.
+| Aktør | Profil | Ca. herreklipp | Nettside/SEO | Anmeldelser | IG-følgere | Særtrekk / markedsføring |
+|---|---|---|---|---|---|---|
+| **Molinett The Barber's** | Premium, solo-mester | **~650 kr** | Engelsk, svak lokal SEO | Fresha 5,0 (23) | Nytt/lite | Internasjonal håndverkshistorie, «Full Ritual», Leonhardsen-bordet |
+| **The London Barber** | Britisk konsept, 2 avd. | ~400–550* | **Sterk** (no, egne tjeneste-/prissider) | 5★ Google, ~114 på FB | ~2 560 | **Bodø/Glimt-partner**, klippekort, produkter, kaffe/te, elgmaskot, lærlinger, siden 2017 |
+| **Bodø Barbershop** | Klassisk barber | ~400–500* | Egen side (barbershop1.no) | Solid, siden 2019 | ~2 290 | Drop-in + booking, produkter, Threads-tilstedeværelse |
+| **Frisør Gullsaksen** | Frisør m/ herreklipp | fra **490 kr** | fixit.no-booking | 4,9 (107) | — | Bredt tilbud, høyt vurdert, etablert |
+| **Klipp Frisør** | Budsjett/volum | fra **390 kr** | Facebook | — | — | Drop-in, «billigst i byen», ingen timebestilling |
 
----
+\* *Eksakte klippepriser for London Barber og Bodø Barbershop var ikke publisert i tilgjengelige
+kilder — anslag basert på markedsnivå og profil. Bør verifiseres direkte før den brukes utad.*
 
-## 6. Sosiale medier
+### Hva konkurrentene gjør som funker (og som Molinett kan lære av)
 
-Instagram/Facebook er den naturlige salgskanalen for en barber — resultatene er
-visuelle og delbare.
+**The London Barber — den å måle seg mot:**
+- **Lokal SEO i toppklasse:** norsk nettside med egne sider for *tjenester*, *klippekort*,
+  *produkter*, *om oss*, *kontakt* → rangerer på «herreklipp Bodø».
+- **Bodø/Glimt-partnerskap** + håndball/padel-samarbeid → massiv, gjentakende lokal
+  eksponering i en fotballgal by.
+- **Klippekort:** stempel hver gang, gave etter 5, gratis klipp etter 9 → driver **gjenkjøp**.
+- **Konsept og opplevelse:** britisk tema, kaffe/te, antikke møbler, maskot («Hasselhoof»),
+  fjordutsikt → delbart og gjenkjennelig.
+- **Bredde:** to lokasjoner (sentrum + City Nord), lærlingordning, produktsalg → skala + inntekt.
 
-- **Publiser jevnt (2–4 ganger/uke):** før/etter, fades, skjegg, «dagens klipp».
-  Reels/korte videoer av klipp gir mest rekkevidde.
-- **Lokal forankring:** bruk lokasjonstagg (Bodø), norske hashtags
-  (#bodø #frisørbodø #herreklippbodø), og tagg kunder (med samtykke).
-- **Gjenbruk innhold:** samme bilde/video → Instagram + Facebook + Google-innlegg.
-- **Vis mennesket og historien:** Felix' internasjonale reise, Leonhardsen-bordet,
-  «inside the shop» — bygger tilhørighet og differensierer fra rene volumsalonger.
-- **Konverter følgere:** bookinglenke i bio/omtale, «walk-ins welcome» og
-  åpningstider tydelig i profilene.
+**Bodø Barbershop:** lang lokal fartstid (2019), drop-in + booking, produktsalg, bygget
+følgerbase og anmeldelser over år.
 
----
+**Klipp Frisør / Gullsaksen:** konkurrerer på **pris og tilgjengelighet** (390–490 kr, drop-in).
+Dette er *ikke* Molinetts kamp — men det setter en referanse: Molinett tar ~30–65 % mer og
+må vise hvorfor.
 
-## 7. Anmeldelser og sosialt bevis
+### Molinetts reelle konkurransefortrinn
 
-- 5,0 på Fresha (23) er en **sterk start** — men Fresha er en booking-plattform,
-  ikke der folk oppdager deg. Google-anmeldelser veier tyngst for oppdagelse.
-- Gjør det systematisk å be om anmeldelse etter hvert besøk.
-- Fremhev *lokale* anmeldelser på nettsiden etter hvert som de kommer.
-- Be gjerne fornøyde kunder om lov til å legge ut før/etter-bilder — dobbel effekt
-  (sosialt bevis + innhold).
+- **Individuelt mesterhåndverk** og en sterk personlig historie (internasjonal karriere, 25+ år).
+- **Ekte premium-opplevelse** — ritual, tid, atmosfære — der andre er mer volum/klassisk.
+- **Toppvurdering fra start** (5,0 på Fresha).
+- **Distinkte detaljer** (Full Ritual, Leonhardsen-bordet) som gir historier å dele.
 
----
-
-## 8. Prising, posisjonering og kapasitet
-
-- **Premium-pris fungerer bare med tydelig verdibegrunnelse.** Kommuniser hva
-  kunden får ekstra: erfaring, tid, ritual, atmosfære, konsultasjon.
-- **Solo barber = kapasitetstak.** Med én stol er «flere kunder» i praksis:
-  1. **Fyll stille tider** (formiddag/tidlig uke) med tilbud eller drop-in-fokus.
-  2. **Øk gjenkjøpsfrekvens** — book neste time ved utsjekk, påminnelser via Fresha.
-  3. **Øk snittsalg** — kombinasjoner (klipp + skjegg), «Full Ritual», produkter.
-  4. **Vurder lojalitet** — f.eks. stempelkort/fast kunde-fordel.
-- Når stolen er tilnærmet full: vurder utvidet åpningstid, ekstra stol/ansatt,
-  eller høyere pris — i den rekkefølgen som passer ambisjonen.
+Dette er nok til å ta en tydelig premium-posisjon — men bare hvis det blir **sett** lokalt.
 
 ---
 
-## 9. Prioritert tiltaksliste
+## 4. Pris og posisjonering
+
+- Molinett ligger **øverst i markedet** (~650 kr klipp; Full Ritual opp mot ~1 050 kr),
+  mens budsjett-/volumaktørene ligger på 390–490 kr.
+- Det er en legitim strategi — men premium-pris krever **tydelig verdibegrunnelse** *og*
+  at riktig kundesegment i det hele tatt finner deg.
+- **Ikke konkurrer på pris.** Konkurrer på håndværk, opplevelse og resultat. La prisen være
+  et signal om kvalitet — og pakk den inn i en tydelig fortelling om hva kunden faktisk får.
+- **Merinntekt uten flere kunder:** produktsalg, kombinasjoner (klipp + skjegg), Full Ritual
+  og eventuelt klippekort løfter snittkjøp og gjenkjøp — viktig når du har **én stol**.
+
+---
+
+## 5. Strukturell realitet: én stol
+
+Med solo-drift er «flere kunder» i praksis fire ting:
+1. **Fyll stille tider** (formiddag/tidlig uke) — målrettede drop-in/tilbud.
+2. **Øk gjenkjøpsfrekvens** — book neste time ved utsjekk + Fresha-påminnelser; vurder klippekort.
+3. **Øk snittkjøp** — kombinasjoner, Full Ritual, produkter.
+4. **Bygg venteliste/lojalitet** — når stolen fylles, blir eksklusivitet et salgsargument.
+
+Vekst utover full stol = utvidet åpningstid, ekstra stol/ansatt eller høyere pris.
+
+---
+
+## 6. Slik får Molinett flere kunder — prioritert plan
 
 **Nå (0–30 dager) — mest effekt, lav kostnad**
-- [ ] Opprett/fullfør **Google Business Profile** med bilder, kategori, åpningstider, bookinglenke.
-- [ ] Sett i gang **systematisk innhenting av Google-anmeldelser** (QR + Fresha-SMS).
-- [ ] Legg **norsk tekst/versjon** på nettsiden med lokale søkeord.
-- [ ] Sørg for **lik NAP** (navn/adresse/telefon) på 1881, Gule Sider, fixit.no.
-- [ ] Start **fast Instagram/Facebook-rytme** (2–4 innlegg/uke, før/etter + reels).
+- [ ] **Google Business-profil** komplett: riktig kategori, bilder, åpningstider, bookinglenke, jevnlige innlegg. *(Dette er den viktigste enkeltjobben — det er her «frisør nær meg»-kundene er.)*
+- [ ] **Innhent Google-anmeldelser systematisk:** QR ved stolen + lenke i Fresha-kvittering. Mål: 30–50 lokale anmeldelser på 3–4 mnd.
+- [ ] **Norsk innhold/versjon** av nettsiden med søkeord: «herreklipp Bodø», «barber Bodø sentrum», «skjeggtrim Bodø», «barbering Sjøgata».
+- [ ] **Lik NAP** (navn/adresse/telefon) på 1881, Gule Sider, fixit.no, frisørguider.
+- [ ] **Fast innholdsrytme** på Instagram + Facebook (2–4/uke): før/etter, fades, skjegg, reels.
 
 **Neste (30–60 dager)**
-- [ ] Fremhev **lokale anmeldelser** på nettsiden.
-- [ ] Bruk **Leonhardsen-/reisehistorien** som gjentakende innholdsserie.
-- [ ] «Book neste time»-rutine ved utsjekk + Fresha-påminnelser for gjenkjøp.
-- [ ] Pakker/mersalg (klipp + skjegg, Full Ritual) tydelig i booking og på vegg.
+- [ ] **Start TikTok** med korte klipp-videoer (uutnyttet kanal — størst organisk rekkevidde nå).
+- [ ] **Skaff én lokal forankring:** samarbeid/sponsing med et lokalt idrettslag, bedrift, studentmiljø (Nord universitet) eller arrangement — Molinetts svar på Glimt-effekten.
+- [ ] **Innfør klippekort/lojalitet** for gjenkjøp (speil konkurrentens modell).
+- [ ] **«Book neste time» ved utsjekk** + Fresha-påminnelser som rutine.
+- [ ] Fremhev **lokale** anmeldelser og før/etter på nettsiden etter hvert som de kommer.
 
 **Senere (60–90 dager)**
-- [ ] Vurder **lokal betalt annonsering** (Google Search / Instagram, liten radius rundt Bodø).
-- [ ] Samarbeid lokalt (klær-/kaffebutikk, treningssenter, Bodø/Glimt-miljø, arrangement).
-- [ ] Lojalitetsordning for faste kunder.
-- [ ] Mål og juster: følg med på Google-innsikt, Fresha-belegg og hvilke innlegg som konverterer.
+- [ ] **Liten, lokal betalt annonsering** (Google Search + Instagram/TikTok, smal radius rundt Bodø) mot premium-segmentet.
+- [ ] **Produktsalg** i salong og på nett (merinntekt per kunde).
+- [ ] **Innholdsserier** rundt historien: internasjonal reise, ritualet, Leonhardsen-bordet.
+- [ ] **Mål og juster:** følg Google-innsikt, Fresha-belegg, hvilke innlegg som konverterer, og hvilke kanaler nye kunder oppgir.
 
 ---
 
-## 10. Oppsummert
+## 7. Oppsummert
 
-Håndverket, merkevaren og verktøyene (nettside, booking, gode anmeldelser) er
-allerede på plass. Flaskehalsen for flere kunder er **lokal synlighet og lokalt
-sosialt bevis**. Ved å bli funnet på norsk der folk søker (Google Business + norsk
-SEO), samle lokale anmeldelser, og holde en jevn, Bodø-forankret tilstedeværelse i
-sosiale medier, vil Molinett kunne fylle stolen og bygge en lojal, tilbakevendende
-kundebase — uten å måtte konkurrere på pris.
+Håndverket og merkevaren er allerede konkurransedyktige — flaskehalsen er **lokal synlighet
+og lokalt sosialt bevis**, der etablerte konkurrenter (særlig The London Barber) har flere
+års forsprang gjennom norsk SEO, hundrevis av anmeldelser, sportspartnerskap og klippekort.
+
+Molinett trenger ikke kopiere alt — men bør lukke de tre viktigste hullene raskt:
+**(1) bli funnet på Google på norsk, (2) samle lokale anmeldelser, (3) få én sterk lokal
+forankring.** Kombinert med jevn, Bodø-forankret tilstedeværelse på Instagram/TikTok og
+grep for gjenkjøp/merinntekt (klippekort, produkter, Full Ritual), kan Molinett fylle stolen
+og bygge en lojal premium-kundebase — uten å konkurrere på pris.
