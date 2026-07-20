@@ -38,7 +38,7 @@ og en tydelig «hvorfor oss»-historie — ikke med lavere pris.
 | **Instagram** | ✅ @molinett.barbers.no | Nytt/lite følgertall vs. 2 000–2 500 hos konkurrentene |
 | **Facebook** | ✅ molinett.barbers.no | Aktiv? Bør speile Instagram |
 | **Google Business** | ⚠️ Uklart/mangelfullt | **Kritisk hull** — ingen synlig lokal Google-oppføring m/ anmeldelser |
-| **TikTok** | ❌ Ikke funnet | Ubenyttet kanal — sterkest organisk rekkevidde for barber-innhold nå |
+| **TikTok** | ❔ Sannsynligvis ja (ikke verifisert) | Fant den ikke via websøk (USA-basert, TikTok indekseres dårlig) — men eier oppgir at den finnes. Bør verifiseres og aktiveres for fullt |
 | **Lokale kataloger** (1881, Gule Sider, fixit) | ⚠️ Mangelfullt | Konkurrentene er oppført flere steder |
 | **Lokale partnerskap / PR** | ❌ Ingen | Konkurrent har Glimt-partnerskap; Molinett har ingen lokal forankring ennå |
 | **Klippekort / lojalitet** | ❌ Nei | Konkurrent bruker dette aktivt for gjenkjøp |
@@ -130,7 +130,7 @@ Vekst utover full stol = utvidet åpningstid, ekstra stol/ansatt eller høyere p
 - [ ] **Fast innholdsrytme** på Instagram + Facebook (2–4/uke): før/etter, fades, skjegg, reels.
 
 **Neste (30–60 dager)**
-- [ ] **Start TikTok** med korte klipp-videoer (uutnyttet kanal — størst organisk rekkevidde nå).
+- [ ] **Aktiver TikTok for fullt** med jevn strøm av korte klipp-videoer (størst organisk rekkevidde nå). Sørg for at kontoen er lett å finne: konsistent brukernavn (@molinett.barbers.no), Bodø-lokasjon, bio-lenke til booking, og kryss-deling til Instagram Reels.
 - [ ] **Skaff én lokal forankring:** samarbeid/sponsing med et lokalt idrettslag, bedrift, studentmiljø (Nord universitet) eller arrangement — Molinetts svar på Glimt-effekten.
 - [ ] **Innfør klippekort/lojalitet** for gjenkjøp (speil konkurrentens modell).
 - [ ] **«Book neste time» ved utsjekk** + Fresha-påminnelser som rutine.
@@ -144,7 +144,43 @@ Vekst utover full stol = utvidet åpningstid, ekstra stol/ansatt eller høyere p
 
 ---
 
-## 7. Oppsummert
+## 7. Anbefalinger
+
+Hvis Molinett bare gjør fem ting, bør det være disse — rangert etter effekt vs. innsats:
+
+1. **Eig Google lokalt (høyest prioritet, lav kostnad).**
+   Fullfør Google Business-profilen og sett i gang systematisk innhenting av
+   **norske** anmeldelser (QR ved stolen + lenke i Fresha-kvittering). Dette er
+   der «frisør Bodø / frisør nær meg»-kundene faktisk er, og der konkurrentene har
+   størst forsprang. *Mål: 30–50 lokale Google-anmeldelser på 3–4 måneder.*
+
+2. **Gjør nettsiden synlig på norsk.**
+   Legg til norsk tekst/versjon med lokale søkeord («herreklipp Bodø», «barber Bodø
+   sentrum», «skjeggtrim Bodø»). Uten dette blir premium-siden aldri funnet lokalt,
+   uansett hvor pen den er.
+
+3. **Vinn på video — aktiver TikTok + Instagram Reels for fullt.**
+   Kort, jevnt klipp-innhold (før/etter, fades, skjegg, ritual) gir størst organisk
+   rekkevidde akkurat nå, og spiller rett inn i Molinetts sterkeste kort: håndverket.
+   Fast rytme (2–4/uke), Bodø-tagg, booking-lenke i bio, samme klipp på begge kanaler.
+
+4. **Skaff én sterk lokal forankring.**
+   Ett synlig lokalt samarbeid — idrettslag, bedrift, studentmiljø (Nord universitet)
+   eller arrangement — er Molinetts svar på konkurrentens Glimt-effekt. Det bygger
+   lokal tilhørighet og gir gjentakende, gratis eksponering.
+
+5. **Få mer ut av hver kunde (viktig med kun én stol).**
+   Innfør klippekort/lojalitet, «book neste time» ved utsjekk, og løft snittkjøpet
+   med kombinasjoner (klipp + skjegg), Full Ritual og produktsalg. Vekst handler her
+   like mye om **frekvens og snittkjøp** som om nye hoder.
+
+**Rød tråd:** Ikke rør prisen. Molinetts posisjon er premium — jobben er å bli *sett*
+og *stolt på* lokalt, ikke å bli billigere. Fiks synlighet og sosialt bevis først;
+resten følger.
+
+---
+
+## 8. Oppsummert
 
 Håndverket og merkevaren er allerede konkurransedyktige — flaskehalsen er **lokal synlighet
 og lokalt sosialt bevis**, der etablerte konkurrenter (særlig The London Barber) har flere
