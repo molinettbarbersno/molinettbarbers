@@ -194,18 +194,48 @@
     </section>
 
     <section class="section gallery-section" id="gallery">
-      <div class="section__head">
-        <p class="eyebrow">Real results</p>
-        <h2 class="section__title">Client styles</h2>
+      <div class="section__head gallery-section__head">
+        <div>
+          <p class="eyebrow">Real results</p>
+          <h2 class="section__title">Client styles</h2>
+        </div>
+        <div class="carousel-nav">
+          <button class="carousel-nav__btn" type="button" data-carousel-prev aria-label="Previous photos">←</button>
+          <button class="carousel-nav__btn" type="button" data-carousel-next aria-label="Next photos">→</button>
+        </div>
       </div>
-      <div class="gallery-grid">
-        <img src="images/customer-gallery-1.png" alt="Slicked-back pompadour with high skin fade and beard trim" />
-        <img src="images/customer-gallery-2.png" alt="Tapered fade with styled top and clean beard lines" />
-        <img src="images/customer-gallery-3.png" alt="High skin fade with short textured flat top" />
-        <img src="images/customer-gallery-4.png" alt="Slicked-back cut with shaped pointed beard" />
-        <img src="images/customer-gallery-5.png" alt="Textured crop with long groomed beard" />
-        <img src="images/customer-gallery-6.png" alt="Textured crop with high skin fade" />
+      <div class="carousel" data-carousel>
+        <div class="carousel__track" data-carousel-track>
+          <div class="carousel__slide">
+            <img src="images/customer-gallery-1.png" alt="Slicked-back pompadour with high skin fade and beard trim" />
+          </div>
+          <div class="carousel__slide">
+            <img src="images/customer-gallery-2.png" alt="Tapered fade with styled top and clean beard lines" />
+          </div>
+          <div class="carousel__slide">
+            <img src="images/customer-gallery-3.png" alt="High skin fade with short textured flat top" />
+          </div>
+          <div class="carousel__slide">
+            <img src="images/customer-gallery-4.png" alt="Slicked-back cut with shaped pointed beard" />
+          </div>
+          <div class="carousel__slide">
+            <img src="images/customer-gallery-5.png" alt="Textured crop with long groomed beard" />
+          </div>
+          <div class="carousel__slide">
+            <img src="images/customer-gallery-6.png" alt="Textured crop with high skin fade" />
+          </div>
+          <div class="carousel__slide">
+            <img src="images/customer-gallery-7.jpg" alt="Side-parted pompadour with disconnected undercut" />
+          </div>
+          <div class="carousel__slide">
+            <img src="images/customer-gallery-8.jpg" alt="Long swept-back cut with full red beard" />
+          </div>
+          <div class="carousel__slide">
+            <img src="images/customer-gallery-9.jpg" alt="Short side-part with grey-flecked full beard" />
+          </div>
+        </div>
       </div>
+      <div class="carousel-dots" data-carousel-dots></div>
     </section>
 
     <section class="section shop-section">

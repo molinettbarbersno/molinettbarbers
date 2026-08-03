@@ -398,16 +398,73 @@ a { color: inherit; }
 .review-card cite span { font-weight: 400; color: var(--color-ink-soft); }
 .review-grid__note { margin-top: 1.5rem; font-size: 0.8rem; color: var(--color-ink-soft); }
 
-/* Gallery */
-.gallery-grid {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
+/* Gallery / Carousel */
+.gallery-section__head {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+}
+.carousel-nav { display: flex; gap: 0.6rem; }
+.carousel-nav__btn {
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  border: 1px solid var(--color-line);
+  background: transparent;
+  color: var(--color-ink);
+  font-size: 1.1rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: border-color 200ms ease, background 200ms ease, transform 200ms ease;
+}
+.carousel-nav__btn:hover { border-color: var(--color-accent); color: var(--color-accent); }
+.carousel-nav__btn:active { transform: scale(0.94); }
+.carousel-nav__btn:disabled { opacity: 0.35; cursor: default; }
+.carousel-nav__btn:disabled:hover { border-color: var(--color-line); color: var(--color-ink); }
+
+.carousel {
+  overflow: hidden;
+}
+.carousel__track {
+  display: flex;
   gap: 0.75rem;
+  scroll-snap-type: x mandatory;
+  overflow-x: auto;
+  scroll-behavior: smooth;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none;
+}
+.carousel__track::-webkit-scrollbar { display: none; }
+.carousel__slide {
+  flex: 0 0 calc(50% - 0.375rem);
+  scroll-snap-align: start;
 }
 @media (min-width: 700px) {
-  .gallery-grid { grid-template-columns: repeat(3, 1fr); }
+  .carousel__slide { flex-basis: calc(33.333% - 0.5rem); }
 }
-.gallery-grid img { border-radius: var(--radius-md); aspect-ratio: 4/5; object-fit: cover; }
+.carousel__slide img { width: 100%; height: 100%; border-radius: var(--radius-md); aspect-ratio: 4/5; object-fit: cover; }
+
+.carousel-dots {
+  display: flex;
+  justify-content: center;
+  gap: 0.5rem;
+  margin-top: 1.5rem;
+}
+.carousel-dots button {
+  width: 8px;
+  height: 8px;
+  padding: 0;
+  border-radius: 50%;
+  border: none;
+  background: var(--color-line);
+  cursor: pointer;
+  transition: background 200ms ease, transform 200ms ease;
+}
+.carousel-dots button.is-active { background: var(--color-accent); transform: scale(1.2); }
 
 /* Shop */
 .shop-grid {
