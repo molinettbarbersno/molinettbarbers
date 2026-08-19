@@ -516,6 +516,7 @@ a { color: inherit; }
 .site-footer__inner a:hover { text-decoration: underline; }
 .site-footer__social { display: flex; justify-content: center; gap: 1.25rem; margin: 1.25rem 0; font-weight: 600; font-size: 0.85rem; }
 .site-footer__legal { margin-top: 1.5rem; font-size: 0.78rem; color: #c9c1ac; }
+.site-footer__credit { margin-top: 0.3rem; font-size: 0.78rem; color: #c9c1ac; }
 
 :focus-visible {
   outline: 2px solid var(--color-accent);
