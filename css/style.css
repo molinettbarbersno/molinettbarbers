@@ -466,11 +466,44 @@ a { color: inherit; }
   border: 1px solid var(--color-line);
   border-radius: var(--radius-md);
   padding: 1.75rem;
+  display: flex;
+  flex-direction: column;
 }
 .review-card p { margin: 0 0 1rem; color: var(--color-ink); }
 .review-card--feature p { font-family: var(--font-display); font-size: 1.15rem; font-style: italic; }
-.review-card cite { font-style: normal; font-weight: 600; font-size: 0.88rem; }
-.review-card cite span { font-weight: 400; color: var(--color-ink-soft); }
+.review-card cite {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.8rem;
+  margin-top: auto;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 0.88rem;
+}
+.review-source {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.38rem;
+  color: var(--color-ink-soft);
+  font-weight: 500;
+  text-decoration: none;
+}
+.review-source:hover { color: var(--color-ink); }
+.review-source__icon {
+  display: inline-grid;
+  place-items: center;
+  width: 1.4rem;
+  height: 1.4rem;
+  border-radius: 50%;
+  background: #fff;
+  font-family: Arial, sans-serif;
+  font-size: 0.78rem;
+  font-style: normal;
+  font-weight: 700;
+}
+.review-source__icon--google { color: #4285f4; }
+.review-source__icon--fresha { color: #17120d; background: var(--color-accent); }
 .review-grid__note { margin-top: 1.5rem; font-size: 0.8rem; color: var(--color-ink-soft); }
 
 /* Gallery / Carousel */
