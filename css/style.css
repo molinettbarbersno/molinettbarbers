@@ -121,12 +121,13 @@ a { color: inherit; }
 }
 .site-header__wordmark {
   margin-right: auto;
-  color: var(--color-ink);
-  font-family: var(--font-display);
-  font-size: 1.05rem;
-  font-weight: 600;
-  letter-spacing: 0.13em;
+  display: flex;
+  align-items: center;
   text-decoration: none;
+}
+.site-header__wordmark img {
+  width: 108px;
+  height: auto;
 }
 .primary-nav {
   display: none;
@@ -260,7 +261,7 @@ a { color: inherit; }
 @media (max-width: 559px) {
   .site-header__inner { padding-block: 0.65rem; }
   .site-header__inner { gap: 0.75rem; }
-  .site-header__wordmark { font-size: 0.86rem; letter-spacing: 0.1em; }
+  .site-header__wordmark img { width: 88px; }
   .primary-nav__cta { padding: 0.72rem 0.82rem; font-size: 0.76rem; }
   .hero-section { min-height: calc(100dvh - 66px); }
   .hero-section__content { padding: 1.5rem 1.25rem 2.5rem; }
