@@ -560,18 +560,25 @@ a { color: inherit; }
 .shop-grid {
   display: grid;
   grid-template-columns: 1fr;
-  align-items: start;
   gap: 0.75rem;
 }
-.shop-grid__panorama { grid-column: 1 / -1; }
+.shop-grid__panorama {
+  grid-column: 1 / -1;
+  aspect-ratio: 16 / 9 !important;
+  object-position: 50% 55%;
+}
 @media (min-width: 760px) {
   .shop-grid { grid-template-columns: repeat(3, 1fr); }
+  .shop-grid__panorama { aspect-ratio: 2.4 / 1 !important; }
 }
 .shop-grid img {
   display: block;
   border-radius: var(--radius-md);
   width: 100%;
-  height: auto;
+  height: 100%;
+  aspect-ratio: 4 / 5;
+  object-fit: cover;
+  object-position: 50% 60%;
 }
 
 /* Visit */
