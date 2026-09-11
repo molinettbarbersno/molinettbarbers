@@ -285,6 +285,10 @@ a { color: inherit; }
   padding: 6rem 1.5rem;
 }
 .section__head { max-width: 640px; margin-bottom: 3rem; }
+@media (max-width: 699px) {
+  .section { padding: 4.8rem 1.5rem; }
+  .section__head { margin-bottom: 2.4rem; }
+}
 
 /* Services */
 .services-section {
