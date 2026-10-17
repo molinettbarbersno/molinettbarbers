@@ -620,6 +620,9 @@ a { color: inherit; }
   object-fit: cover;
   object-position: 50% 60%;
 }
+.shop-grid img.shop-grid__motorcycle {
+  object-position: 50% 52%;
+}
 
 /* Visit */
 .visit-section {
