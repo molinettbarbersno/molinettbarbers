@@ -17,6 +17,38 @@
 })();
 
 (function () {
+  const carousel = document.querySelector("[data-review-carousel]");
+  if (!carousel) return;
+
+  const track = carousel.querySelector("[data-review-track]");
+  const previous = carousel.querySelector("[data-review-prev]");
+  const next = carousel.querySelector("[data-review-next]");
+  const currentLabel = carousel.querySelector("[data-review-current]");
+  const totalLabel = carousel.querySelector("[data-review-total]");
+  let current = 0;
+
+  function refresh() {
+    const total = track.children.length;
+    if (!total) return;
+    current = (current + total) % total;
+    track.style.transform = `translateX(-${current * 100}%)`;
+    currentLabel.textContent = String(current + 1);
+    totalLabel.textContent = String(total);
+  }
+
+  previous.addEventListener("click", () => {
+    current -= 1;
+    refresh();
+  });
+  next.addEventListener("click", () => {
+    current += 1;
+    refresh();
+  });
+
+  refresh();
+})();
+
+(function () {
   const carousel = document.querySelector("[data-carousel]");
   if (!carousel) return;
 
