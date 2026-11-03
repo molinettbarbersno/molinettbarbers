@@ -16,6 +16,73 @@
   });
 })();
 
+window.initGoogleReviews = async function () {
+  const track = document.querySelector("[data-google-reviews]");
+  if (!track || !window.google?.maps) return;
+
+  const fallbackUrl = document.querySelector("[data-google-reviews-link]")?.href;
+  const freshaReviews = Array.from(track.querySelectorAll('[data-review-source="fresha"]'))
+    .map((card) => card.cloneNode(true));
+
+  try {
+    const { Place } = await google.maps.importLibrary("places");
+    const response = await Place.searchByText({
+      textQuery: "Molinett The Barber's, Sjøgata 20B, 8006 Bodø, Norway",
+      fields: ["id", "displayName"],
+      maxResultCount: 1,
+      language: "en"
+    });
+    const result = response.places?.[0];
+    if (!result) throw new Error("Business not found");
+
+    const place = new Place({ id: result.id });
+    await place.fetchFields({
+      fields: ["displayName", "rating", "userRatingCount", "reviews", "googleMapsURI"]
+    });
+
+    const rating = document.querySelector("[data-google-rating]");
+    const count = document.querySelector("[data-google-review-count]");
+    const link = document.querySelector("[data-google-reviews-link]");
+    if (rating && place.rating) rating.textContent = place.rating.toFixed(1);
+    if (count && place.userRatingCount) count.textContent = `${place.userRatingCount} Google reviews`;
+    if (link) link.href = place.googleMapsURI || fallbackUrl;
+
+    const googleReviews = (place.reviews || []).map((review) => {
+      const card = document.createElement("blockquote");
+      card.className = "review-card";
+      card.dataset.reviewSource = "google";
+
+      const stars = document.createElement("div");
+      stars.className = "review-card__stars";
+      stars.setAttribute("aria-label", `${review.rating || 5} out of 5 stars`);
+      stars.textContent = "★".repeat(Math.round(review.rating || 5));
+
+      const text = document.createElement("p");
+      text.textContent = `“${review.text || ""}”`;
+
+      const cite = document.createElement("cite");
+      const author = document.createElement("a");
+      author.className = "review-source";
+      author.textContent = review.authorAttribution?.displayName || "Google reviewer";
+      author.href = review.authorAttribution?.uri || place.googleMapsURI || fallbackUrl;
+      author.target = "_blank";
+      author.rel = "noopener";
+      cite.append(author);
+
+      card.append(stars, text, cite);
+      return card;
+    });
+
+    if (googleReviews.length) {
+      track.replaceChildren(...googleReviews, ...freshaReviews);
+    }
+  } catch (error) {
+    console.warn("Google reviews could not be refreshed; showing saved reviews.", error);
+  }
+
+  window.refreshReviewCarousel?.();
+};
+
 (function () {
   const carousel = document.querySelector("[data-review-carousel]");
   if (!carousel) return;
@@ -45,6 +112,10 @@
     refresh();
   });
 
+  window.refreshReviewCarousel = () => {
+    current = 0;
+    refresh();
+  };
   refresh();
 })();
 
