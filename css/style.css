@@ -656,6 +656,7 @@ a { color: inherit; }
   border-radius: var(--radius-md);
   width: 100%;
   height: auto;
+  filter: sepia(0.16) saturate(1.12) brightness(0.96) contrast(1.04);
 }
 .shop-grid img:not(.shop-grid__panorama) {
   aspect-ratio: 4 / 5;
