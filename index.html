@@ -7,17 +7,22 @@
   <meta name="google-site-verification" content="RWAX6O4KbVtOaHysAIzQc8dP8xAo9fSo3_fvhlmA23M" />
   <title>Molinett The Barber's — Barbershop in Bodø</title>
   <meta name="description" content="Barbershop in Bodø, Norway run by Félix Molinett. Fades, classic cuts, beard trims. Walk-ins welcome — Sjøgata 20B." />
+  <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
   <link rel="canonical" href="https://molinettbarbers.no/" />
   <meta name="theme-color" content="#f6f1e7" />
   <meta property="og:title" content="Molinett The Barber's" />
+  <meta property="og:site_name" content="Molinett The Barber's" />
+  <meta property="og:locale" content="en_NO" />
   <meta property="og:description" content="Barbershop in Bodø. Walk-ins welcome — Sjøgata 20B." />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://molinettbarbers.no/" />
-  <meta property="og:image" content="images/3ae320f2-3cb5-49de-bd37-d150c35b9c84.jpg" />
+  <meta property="og:image" content="https://molinettbarbers.no/images/3ae320f2-3cb5-49de-bd37-d150c35b9c84.jpg" />
+  <meta property="og:image:alt" content="Molinett The Barber's barbershop in Bodø" />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="Molinett The Barber's" />
   <meta name="twitter:description" content="Barbershop in Bodø. Walk-ins welcome." />
-  <meta name="twitter:image" content="images/3ae320f2-3cb5-49de-bd37-d150c35b9c84.jpg" />
+  <meta name="twitter:image" content="https://molinettbarbers.no/images/3ae320f2-3cb5-49de-bd37-d150c35b9c84.jpg" />
+  <meta name="twitter:image:alt" content="Molinett The Barber's barbershop in Bodø" />
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,500&family=Work+Sans:wght@400;500;600&display=swap" rel="stylesheet">
@@ -25,52 +30,102 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "HairSalon",
-    "@id": "https://molinettbarbers.no/#business",
-    "name": "Molinett The Barber's",
-    "url": "https://molinettbarbers.no/",
-    "image": "https://molinettbarbers.no/images/3ae320f2-3cb5-49de-bd37-d150c35b9c84.jpg",
-    "telephone": "+4798475488",
-    "address": {
-      "@type": "PostalAddress",
-      "streetAddress": "Sjøgata 20B",
-      "postalCode": "8006",
-      "addressLocality": "Bodø",
-      "addressCountry": "NO"
-    },
-    "geo": {
-      "@type": "GeoCoordinates",
-      "latitude": 67.2849845,
-      "longitude": 14.3834893
-    },
-    "openingHoursSpecification": [
+    "@graph": [
       {
-        "@type": "OpeningHoursSpecification",
-        "dayOfWeek": ["Tuesday", "Wednesday"],
-        "opens": "10:00",
-        "closes": "18:00"
+        "@type": "WebSite",
+        "@id": "https://molinettbarbers.no/#website",
+        "url": "https://molinettbarbers.no/",
+        "name": "Molinett The Barber's",
+        "alternateName": "Molinett The Barber’s",
+        "inLanguage": "en",
+        "publisher": {
+          "@id": "https://molinettbarbers.no/#business"
+        }
       },
       {
-        "@type": "OpeningHoursSpecification",
-        "dayOfWeek": ["Thursday", "Friday"],
-        "opens": "10:00",
-        "closes": "19:00"
+        "@type": "WebPage",
+        "@id": "https://molinettbarbers.no/#webpage",
+        "url": "https://molinettbarbers.no/",
+        "name": "Molinett The Barber's — Barbershop in Bodø",
+        "description": "Barbershop in Bodø, Norway run by Félix Molinett. Fades, classic cuts, beard trims. Walk-ins welcome — Sjøgata 20B.",
+        "isPartOf": {
+          "@id": "https://molinettbarbers.no/#website"
+        },
+        "about": {
+          "@id": "https://molinettbarbers.no/#business"
+        },
+        "primaryImageOfPage": {
+          "@type": "ImageObject",
+          "url": "https://molinettbarbers.no/images/3ae320f2-3cb5-49de-bd37-d150c35b9c84.jpg"
+        },
+        "inLanguage": "en"
       },
       {
-        "@type": "OpeningHoursSpecification",
-        "dayOfWeek": "Saturday",
-        "opens": "10:00",
-        "closes": "16:00"
+        "@type": "HairSalon",
+        "@id": "https://molinettbarbers.no/#business",
+        "name": "Molinett The Barber's",
+        "legalName": "Vanlør Mølinett AS",
+        "url": "https://molinettbarbers.no/",
+        "mainEntityOfPage": {
+          "@id": "https://molinettbarbers.no/#webpage"
+        },
+        "description": "Barbershop in Bodø, Norway run by Félix Molinett. Fades, classic cuts and beard trims.",
+        "image": "https://molinettbarbers.no/images/3ae320f2-3cb5-49de-bd37-d150c35b9c84.jpg",
+        "telephone": "+4798475488",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Sjøgata 20B",
+          "postalCode": "8006",
+          "addressLocality": "Bodø",
+          "addressCountry": "NO"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 67.2849845,
+          "longitude": 14.3834893
+        },
+        "hasMap": "https://www.google.com/maps/place/Molinett+the+Barber%E2%80%99s/@67.2849845,14.3834893,17z/data=!4m8!3m7!1s0x45df1118373851ed:0xba49fcaa02cd1e12!8m2!3d67.2849845!4d14.3834893!9m1!1b1!16s%2Fg%2F11z119v3mz?entry=ttu",
+        "openingHoursSpecification": [
+          {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": ["Tuesday", "Wednesday"],
+            "opens": "10:00",
+            "closes": "18:00"
+          },
+          {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": ["Thursday", "Friday"],
+            "opens": "10:00",
+            "closes": "19:00"
+          },
+          {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": "Saturday",
+            "opens": "10:00",
+            "closes": "16:00"
+          }
+        ],
+        "sameAs": [
+          "https://www.instagram.com/molinett.barbers.no/",
+          "https://www.tiktok.com/@molinett.barbers.no",
+          "https://www.facebook.com/molinett.barbers.no/",
+          "https://www.google.com/maps/place/Molinett+the+Barber%E2%80%99s/@67.2849845,14.3834893,17z/data=!4m8!3m7!1s0x45df1118373851ed:0xba49fcaa02cd1e12!8m2!3d67.2849845!4d14.3834893!9m1!1b1!16s%2Fg%2F11z119v3mz?entry=ttu",
+          "https://www.fresha.com/en-GB/a/molinett-the-barbers-bodo-sjogata-20-efcluycb"
+        ],
+        "acceptsReservations": true,
+        "potentialAction": {
+          "@type": "ReserveAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.fresha.com/book-now/molinett-the-barbers-kyr8oxl9/all-offer?share=true&pId=2709703",
+            "actionPlatform": [
+              "https://schema.org/DesktopWebPlatform",
+              "https://schema.org/MobileWebPlatform"
+            ]
+          }
+        }
       }
-    ],
-    "sameAs": [
-      "https://www.instagram.com/molinett.barbers.no/",
-      "https://www.facebook.com/molinett.barbers.no/"
-    ],
-    "potentialAction": {
-      "@type": "ReserveAction",
-      "target": "https://www.fresha.com/book-now/molinett-the-barbers-kyr8oxl9/all-offer?share=true&pId=2709703"
-    }
+    ]
   }
   </script>
   <script>function loadScript(a){var b=document.getElementsByTagName("head")[0],c=document.createElement("script");c.type="text/javascript",c.src="https://tracker.metricool.com/resources/be.js",c.onreadystatechange=a,c.onload=a,b.appendChild(c)}loadScript(function(){beTracker.t({hash:"7bb09723c1977117621993714950c0d"})});</script>
