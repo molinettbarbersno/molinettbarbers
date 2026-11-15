@@ -178,6 +178,20 @@
       </div>
     </section>
 
+    <section class="black-friday-section" id="black-friday" data-black-friday-end="2026-12-01T00:00:00+01:00" aria-labelledby="black-friday-title">
+      <div class="black-friday-card">
+        <p class="black-friday-card__eyebrow">EXCLUSIVE LIMITED-TIME OFFER</p>
+        <h2 class="black-friday-card__title" id="black-friday-title">BLACK FRIDAY 2026</h2>
+        <p class="black-friday-card__discount">25% OFF</p>
+        <p class="black-friday-card__lead">Your next haircut, beard trim or grooming ritual. A little something to look forward to.</p>
+        <div class="black-friday-card__rule"></div>
+        <p class="black-friday-card__deadline">BUY NOW UNTIL NOVEMBER 30</p>
+        <p class="black-friday-card__redeem">Enjoy your services from January 1, 2027.</p>
+        <p class="black-friday-card__terms">Minimum purchase 640 NOK · Limited offer · Packages expire 4 months after purchase</p>
+        <a class="black-friday-card__button" href="https://www.fresha.com/a/molinett-the-barbers-bodo-sjogata-20b-y22u92lj/packages?pId=2709703&amp;sl=3yb7bqshf" target="_blank" rel="noopener">SHOP BLACK FRIDAY</a>
+      </div>
+    </section>
+
     <section class="section services-section" id="services">
       <div class="section__head">
         <p class="eyebrow">What we offer</p>
@@ -460,6 +474,12 @@
     </div>
   </footer>
 
+  <script>
+    (function () {
+      var banner = document.getElementById('black-friday');
+      if (banner && Date.now() >= new Date(banner.dataset.blackFridayEnd).getTime()) banner.hidden = true;
+    }());
+  </script>
   <script src="js/main.js"></script>
   <script async src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDoyTwu8kKuaWag4AYXciD5hIeE9ZdmYys&amp;libraries=places&amp;v=weekly&amp;callback=initGoogleReviews"></script>
 </body>
