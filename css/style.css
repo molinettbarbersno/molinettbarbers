@@ -709,3 +709,103 @@ a { color: inherit; }
   outline: 2px solid var(--color-accent);
   outline-offset: 2px;
 }
+
+
+/* Black Friday 2026 — temporary homepage offer */
+.black-friday-section {
+  padding: clamp(2.25rem, 6vw, 5rem) clamp(1rem, 4vw, 3rem);
+  background: #0d0d0d;
+}
+.black-friday-card {
+  width: min(100%, 1080px);
+  margin: 0 auto;
+  padding: clamp(2rem, 5vw, 4.5rem);
+  border: 1px solid rgba(205, 168, 111, .55);
+  border-radius: 22px;
+  background:
+    radial-gradient(circle at 88% 10%, rgba(205, 168, 111, .12), transparent 34%),
+    linear-gradient(145deg, #171717 0%, #101010 100%);
+  box-shadow: 0 28px 70px rgba(0, 0, 0, .34);
+  color: #f7f3ea;
+}
+.black-friday-card__eyebrow {
+  margin: 0 0 1.2rem;
+  color: #cda86f;
+  font-family: "Work Sans", sans-serif;
+  font-size: clamp(.72rem, 1.4vw, .88rem);
+  font-weight: 600;
+  letter-spacing: .14em;
+}
+.black-friday-card__title {
+  margin: 0;
+  color: #fff;
+  font-family: "Fraunces", serif;
+  font-size: clamp(2.35rem, 6.2vw, 5.35rem);
+  font-weight: 500;
+  line-height: .96;
+  letter-spacing: -.035em;
+}
+.black-friday-card__discount {
+  margin: 1.15rem 0 1.35rem;
+  color: #d4b07a;
+  font-family: "Fraunces", serif;
+  font-size: clamp(2.7rem, 7vw, 5.8rem);
+  font-weight: 600;
+  line-height: 1;
+}
+.black-friday-card__lead {
+  max-width: 760px;
+  margin: 0;
+  color: #f2eee6;
+  font-size: clamp(1.1rem, 2.5vw, 1.55rem);
+  line-height: 1.6;
+}
+.black-friday-card__rule {
+  height: 1px;
+  margin: clamp(1.7rem, 4vw, 2.6rem) 0;
+  background: linear-gradient(90deg, rgba(205,168,111,.85), rgba(205,168,111,0));
+}
+.black-friday-card__deadline {
+  margin: 0 0 .45rem;
+  color: #fff;
+  font-size: clamp(1.25rem, 3vw, 2rem);
+  font-weight: 600;
+  letter-spacing: .015em;
+}
+.black-friday-card__redeem {
+  margin: 0 0 1.15rem;
+  color: #eee8dc;
+  font-size: clamp(1rem, 2.2vw, 1.3rem);
+}
+.black-friday-card__terms {
+  margin: 0 0 1.6rem;
+  color: #bcb6aa;
+  font-size: clamp(.84rem, 1.7vw, 1rem);
+  line-height: 1.55;
+}
+.black-friday-card__button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 54px;
+  padding: .95rem 1.55rem;
+  border: 1px solid #d4b07a;
+  border-radius: 10px;
+  background: #d4b07a;
+  color: #121212;
+  font-family: "Work Sans", sans-serif;
+  font-weight: 600;
+  letter-spacing: .04em;
+  text-decoration: none;
+  transition: transform .2s ease, background-color .2s ease;
+}
+.black-friday-card__button:hover,
+.black-friday-card__button:focus-visible {
+  transform: translateY(-2px);
+  background: #e1c08d;
+}
+@media (max-width: 640px) {
+  .black-friday-section { padding: 1.25rem .9rem 2rem; }
+  .black-friday-card { padding: 1.7rem 1.25rem; border-radius: 16px; }
+  .black-friday-card__button { width: 100%; }
+}
