@@ -245,6 +245,7 @@ a { color: inherit; }
   font-size: 0.88em;
   font-weight: 500;
   margin-top: 0.08em;
+  color: #d8cfa8;
 }
 .hero-section__lead {
   font-size: 1.05rem;
@@ -774,8 +775,10 @@ a { color: inherit; }
 }
 .black-friday-card__redeem {
   margin: 0 0 1.15rem;
-  color: #eee8dc;
+  color: #d8cfa8;
   font-size: clamp(1rem, 2.2vw, 1.3rem);
+  font-weight: 600;
+  letter-spacing: .015em;
 }
 .black-friday-card__terms {
   margin: 0 0 1.6rem;
