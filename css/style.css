@@ -812,3 +812,22 @@ a { color: inherit; }
   .black-friday-card { padding: 1.7rem 1.25rem; border-radius: 16px; }
   .black-friday-card__button { width: 100%; }
 }
+
+/* NYMERA independent business — compact footer section */
+
+.nymera-section{max-width:1220px;margin:0 auto;padding:2rem 1.5rem 2.5rem;scroll-margin-top:6rem;color:var(--color-ink,#f3ede2)}
+.nymera-section__eyebrow{border-top:1px solid var(--color-line,#342d24);padding-top:1.5rem;margin:0 0 1.25rem;font:600 .875rem/1.5 var(--font-body,"Work Sans",sans-serif);letter-spacing:.1em;color:var(--color-accent,#c7a477)}
+.nymera-section__layout{display:grid;grid-template-columns:240px minmax(0,1fr);align-items:center;gap:2rem}
+.nymera-section__brand{border:1px solid var(--color-line,#342d24);border-radius:4px;overflow:hidden;max-width:240px}
+.nymera-section__brand img{display:block;width:100%;height:auto;aspect-ratio:709/270;object-fit:contain}
+.nymera-section__title{font:500 1.65rem/1.2 var(--font-display,"Fraunces",serif);margin:0 0 .65rem;letter-spacing:-.01em}
+.nymera-section__content{min-width:0}
+.nymera-section__content>p{font-size:1rem;line-height:1.6;margin:0 0 .65rem;color:var(--color-ink-soft,#aaa091)}
+.nymera-section__content .nymera-section__lead{color:var(--color-ink,#f3ede2)}
+.nymera-section__content .nymera-section__services{color:var(--color-accent,#c7a477)}
+.nymera-section__cta{min-height:44px;padding:.6rem 1rem;display:inline-flex;align-items:center;justify-content:center;border:1px solid var(--color-accent,#c7a477);border-radius:4px;background:transparent;color:var(--color-accent,#c7a477);font-size:.875rem;font-weight:600;text-decoration:none;text-align:center}
+.nymera-section__cta:hover{background:var(--color-accent,#c7a477);color:#17120d}
+.nymera-section__cta:focus-visible{outline:2px solid var(--color-ink,#f3ede2);outline-offset:4px}
+.nymera-section__content .nymera-section__independent{font-size:.875rem;margin:.65rem 0 0}
+.nymera-section__sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
+@media(max-width:699px){.nymera-section{padding:1.5rem 1.5rem 2rem}.nymera-section__layout{grid-template-columns:minmax(0,1fr);gap:1rem}.nymera-section__brand{max-width:220px}.nymera-section__eyebrow{font-size:.875rem;margin-bottom:1rem}.nymera-section__title{font-size:1.5rem}.nymera-section__cta{width:auto}}
